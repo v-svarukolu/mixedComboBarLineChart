@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/mixedComboBarLineChart.git/static/js/main.2eefbd5c.chunk.js",
-    "main.js.map": "/mixedComboBarLineChart.git/static/js/main.2eefbd5c.chunk.js.map",
-    "runtime-main.js": "/mixedComboBarLineChart.git/static/js/runtime-main.8b75f971.js",
-    "runtime-main.js.map": "/mixedComboBarLineChart.git/static/js/runtime-main.8b75f971.js.map",
-    "static/js/2.7692e314.chunk.js": "/mixedComboBarLineChart.git/static/js/2.7692e314.chunk.js",
-    "static/js/2.7692e314.chunk.js.map": "/mixedComboBarLineChart.git/static/js/2.7692e314.chunk.js.map",
-    "static/js/3.399a1359.chunk.js": "/mixedComboBarLineChart.git/static/js/3.399a1359.chunk.js",
-    "static/js/3.399a1359.chunk.js.map": "/mixedComboBarLineChart.git/static/js/3.399a1359.chunk.js.map",
-    "index.html": "/mixedComboBarLineChart.git/index.html",
-    "static/js/2.7692e314.chunk.js.LICENSE.txt": "/mixedComboBarLineChart.git/static/js/2.7692e314.chunk.js.LICENSE.txt"
+    "main.js": "/barlinechart/static/js/main.2eefbd5c.chunk.js",
+    "main.js.map": "/barlinechart/static/js/main.2eefbd5c.chunk.js.map",
+    "runtime-main.js": "/barlinechart/static/js/runtime-main.14748a90.js",
+    "runtime-main.js.map": "/barlinechart/static/js/runtime-main.14748a90.js.map",
+    "static/js/2.3d70f1ef.chunk.js": "/barlinechart/static/js/2.3d70f1ef.chunk.js",
+    "static/js/2.3d70f1ef.chunk.js.map": "/barlinechart/static/js/2.3d70f1ef.chunk.js.map",
+    "static/js/3.399a1359.chunk.js": "/barlinechart/static/js/3.399a1359.chunk.js",
+    "static/js/3.399a1359.chunk.js.map": "/barlinechart/static/js/3.399a1359.chunk.js.map",
+    "index.html": "/barlinechart/index.html",
+    "static/js/2.3d70f1ef.chunk.js.LICENSE.txt": "/barlinechart/static/js/2.3d70f1ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b75f971.js",
-    "static/js/2.7692e314.chunk.js",
+    "static/js/runtime-main.14748a90.js",
+    "static/js/2.3d70f1ef.chunk.js",
     "static/js/main.2eefbd5c.chunk.js"
   ]
 }
